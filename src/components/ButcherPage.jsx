@@ -97,7 +97,7 @@ export default function ButcherPage() {
         {/* Shared KG input */}
         <div className="mb-6">
           <label className="block text-sm font-semibold text-red-400 mb-1">
-            KG for all selected items
+            KG for all selected itemss
           </label>
           <input
             type="number"
